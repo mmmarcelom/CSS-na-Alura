@@ -1,0 +1,36 @@
+body {
+    background-image: url('https://aboutme.imgix.net/background/users/m/a/r/marcelomesquita_1589766963_52.jpg');
+    font-family: system-ui;
+    color: whitesmoke;
+    text-align: right;
+  }
+  
+  .menu {
+    background-color: white;
+  }
+  
+  a {
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  .site-title {
+    text-align: center;
+    color: white;
+  }
+  
+  .menu li {
+    list-style: none;  
+  }
+  
+  .menu ul {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .site-subtitle{
+    font-style: italic;
+  }
